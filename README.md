@@ -1,4 +1,3 @@
-# github.com
-- A very suitable description.
-- Another very suitable description!
-- And another very suitable description.
+# Liquid
+Welcome to the Liquid modpack github.
+Report issues or ask questions here.
