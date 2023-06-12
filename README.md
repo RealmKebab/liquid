@@ -37,5 +37,3 @@ All the mods used are listed in the dependencies section in the [versions](https
 I have no team; this is just me using Prism to update and export the modpack.
 
 Try it! You'll like it. https://prismlauncher.org
-
-How I got into Prism Launcher is the fault of an Aternos moderator recommending it to me.
