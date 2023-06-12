@@ -1,2 +1,4 @@
+# What mods have been updated/removed/added
+
 - Updated to 1.20
 - Removed Exordium, Fast Load, Dynamic FPS and MLF (Memory Leak Fix)
