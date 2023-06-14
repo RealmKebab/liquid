@@ -1,6 +1,6 @@
 # Changelogs
-*How much is too much?*
-[*Obviously, not much... Right..?](https://modrinth.com/modpack/liquid/versions)
+*How much is too much?*  
+[*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
 ## v3.1.1 (2 additions) - Beta Stage
 - Added Mod Menu
 - Added ImmediatelyFast
