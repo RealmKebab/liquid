@@ -7,6 +7,7 @@ And no, I'm not doing a test on 1.20 because I've already given the test results
 ![Environment](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)
 [![Mod Loader](https://img.shields.io/badge/mod%20loader-fabric-d64541?style=flat-square)](https://fabricmc.net)
 
+(fun fact this modpack is inspired from [adrenaline](https://modrinth.com/modpack/adrenaline))
 # Why?
 I have created liquid for the simple reason:
 Low-end hardware is not the best at handling Minecraft, especially with the 2GB of RAM allocated with their 4GB motorcycle.
