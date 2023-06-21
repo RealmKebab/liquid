@@ -21,6 +21,8 @@ If you're asking why I didn't host this on CurseForge, CurseForge is trash. And 
 Jesus christ, it is HELL to even upload something to the site.
 And judging from the recent fractureiser malware, modrinth is much safer.
 
+[![youdidntask](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com)
+
 # Forge, Fabric, Quilt
 Forge, No.
 Straight up, no.
@@ -38,5 +40,3 @@ All the mods used are listed in the dependencies section in the [versions](https
 I have no team; this is just me using Prism to update and export the modpack.
 
 Try it! You'll like it. https://prismlauncher.org
-
-[![youdidntask](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com)
