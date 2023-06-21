@@ -38,3 +38,5 @@ All the mods used are listed in the dependencies section in the [versions](https
 I have no team; this is just me using Prism to update and export the modpack.
 
 Try it! You'll like it. https://prismlauncher.org
+
+[![youdidntask](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com)
