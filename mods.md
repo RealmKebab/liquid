@@ -1,7 +1,7 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
-# v3.2 - Beta Stage
+## v3.2 - Beta Stage
 - Updated Mod Menu 7.0.1 -> 7.1.0
 - Updated Fabric API 0.83.1 -> 0.84.0
 - Updated Dynamic FPS 2.3.0 -> 2.4.0
