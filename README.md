@@ -40,3 +40,11 @@ All the mods used are listed in the dependencies section in the [versions](https
 I have no team; this is just me using Prism to update and export the modpack.
 
 Try it! You'll like it. https://prismlauncher.org
+
+---
+
+Liquid is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+*You CAN NOT distribute a(n) modified copy of my modpack without permission*
+
+Learn more about this license: https://creativecommons.org/licenses/by-nc-nd/4.0/
