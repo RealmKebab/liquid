@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.2 - Beta Stage
+- Updated Fabric API 0.84.0 -> 0.85.0
+- Updated ImmediatelyFast 1.1.15 -> 1.1.16
+- Updated Indium 1.0.18 -> 1.0.21
+## v3.2.1 (v3.2 again) - Beta Stage
+- Removed Iris Shaders
 ## v3.2 - Beta Stage
 - Updated Mod Menu 7.0.1 -> 7.1.0
 - Updated Fabric API 0.83.1 -> 0.84.0
