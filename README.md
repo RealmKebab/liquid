@@ -10,16 +10,8 @@ And no, I'm not doing a test on 1.20 because I've already given the test results
 (fun fact this modpack is inspired by [adrenaline](https://modrinth.com/modpack/adrenaline))
 # Why?
 I have created liquid for the simple reason:
-Low-end hardware is not the best at handling Minecraft, especially with the 2GB of RAM allocated with their 4GB motorcycle.
+Low-end hardware is not the best at handling Minecraft, especially with the 2GB of RAM allocated with their 4GB laptop or desktop.
 Vanilla isn't at all stable on that hardware.
-
-This modpack has preferences that are in your feelings:
-
-Very Bad -> Bad -> Reasonable <-> Okay <-> Good <-> Great <-> Perfect
-
-If you're asking why I didn't host this on CurseForge, CurseForge is trash. And I mean it.
-Jesus christ, it is HELL to even upload something to the site.
-And judging from the recent fractureiser malware, modrinth is much safer.
 
 [![youdidntask](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com)
 
