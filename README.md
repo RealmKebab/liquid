@@ -32,15 +32,6 @@ I'm not handling all those updates that Forge does every single second.
 We already have a fabric version.
 About quilt, I'm unsure.
 
-# How?
-Due to the performance mods on Fabric and how they have a great boost in performance, I was able to make this modpack.
-All the mods used are listed in the dependencies section in the [versions](https://modrinth.com/modpack/liquid/version/v3-not-fully)
-
-# Team
-I have no team; this is just me using Prism to update and export the modpack.
-
-Try it! You'll like it. https://prismlauncher.org
-
 ---
 
 Liquid is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
