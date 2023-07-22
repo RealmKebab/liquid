@@ -1,6 +1,14 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.3 - Beta
+- Updated c2me 0.2.0+alpha 10.91 -> 0.2.0+alpha 10.94
+- Updated Fabric API 0.85.0 -> 0.86.0
+- Updated Sodium Extra 0.4.20 -> 0.4.23
+- Updated Very Many Players 7.96 -> 7.98
+- Updated Mod Menu 7.1.0 -> 7.2.1
+- Added Enhanced Block Entities 0.9
+
 ## v3.2.2 - Beta Stage
 - Updated Fabric API 0.84.0 -> 0.85.0
 - Updated ImmediatelyFast 1.1.15 -> 1.1.16
