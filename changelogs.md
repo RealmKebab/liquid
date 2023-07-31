@@ -1,6 +1,14 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.4 - Beta
+- Removed EBE because of https://github.com/FoundationGames/EnhancedBlockEntities/issues/172
+- Added ModernFix 5.4.2
+- Updated Sodium Extra 0.4.23 -> 0.4.24
+- Updated Very Many Players 0.2.0 7.98 -> 0.2.0 7.100
+- Updated c2me 10.94 -> 10.96
+- Updated ImmediatelyFast 1.1.16 -> 1.1.20
+- Updated Reese's Sodium Options 1.5.1 -> 1.6.3
 ## v3.2.3 - Beta
 - Updated c2me 0.2.0+alpha 10.91 -> 0.2.0+alpha 10.94
 - Updated Fabric API 0.85.0 -> 0.86.0
