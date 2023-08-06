@@ -9,8 +9,6 @@
 I have created Liquid for the simple reason:  
 Better Minecraft Performance on Low-end hardware
 
-[![youdidntask](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com)
-
 # Forge, Fabric, Quilt
 Forge - No  
 Fabric - What do you use to load this modpack, Forge?  
