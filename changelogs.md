@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.5 - Beta
+- Updated Sodium | 0.4.10 -> 0.5.0
+- Updated Sodium Extra | 0.4.24 -> 0.5.0
+- Updated Indium | 1.0.21 -> 1.0.23
+- Updated ModernFix | 5.4.2 -> 5.6.0
+- Updated Reese's Sodium Options | 1.6.3 -> 1.6.4
 ## v3.2.4 - Beta
 - Removed EBE because of https://github.com/FoundationGames/EnhancedBlockEntities/issues/172
 - Added ModernFix 5.4.2
