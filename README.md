@@ -18,6 +18,4 @@ Quilt - Probably Not (no plans for it currently)
 
 Liquid is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-*You MAY NOT distribute a modified copy of my modpack without permission.*
-
 Learn more about this license: https://creativecommons.org/licenses/by-nc-nd/4.0/
