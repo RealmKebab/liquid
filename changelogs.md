@@ -1,6 +1,9 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.7 - Beta
+- Updated Sodium | 0.5.1 -> 0.5.2
+- Updated Indium | 1.0.24 -> 1.0.25
 ## v3.2.6 - Beta
 - Updated Sodium | 0.5.0 -> 0.5.1
 - Updated Sodium Extra | 0.5.0 -> 0.5.1
@@ -10,7 +13,6 @@
 - Added back Exordium | 1.1.3.1
 - Updated Indium | 1.0.23 -> 1.0.24
 - Removed DashLoader | Because of https://github.com/alphaqu/DashLoader/issues/63
-
 ## v3.2.5 - Beta
 - Updated Sodium | 0.4.10 -> 0.5.0
 - Updated Sodium Extra | 0.4.24 -> 0.5.0
