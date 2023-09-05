@@ -1,6 +1,15 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.8 - Beta
+- Updated Dynamic FPS | 2.4.0 -> 3.0.1
+- Updated Exordium | 1.1.3.1 -> 1.1.4
+- Updated Fabric API | 0.87.0 -> 0.88.1
+- Updated ImmediatelyFast | 1.1.27 -> 1.2.1
+- Updated MemoryLeakFix | 1.1.1 -> v1.1.2 (why did they add a v)
+- Updated ModernFix | 5.6.1 -> 5.7.2
+- Updated Reese's Sodium Options | 1.6.4 -> 1.6.5
+- Updated Very Many Players | 0.2.0 beta 7.100 -> 0.2.0 beta 7.101
 ## v3.2.7 - Beta
 - Updated Sodium | 0.5.1 -> 0.5.2
 - Updated Indium | 1.0.24 -> 1.0.25
