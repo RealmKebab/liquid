@@ -10,6 +10,7 @@
 - Updated ModernFix | 5.6.1 -> 5.7.2
 - Updated Reese's Sodium Options | 1.6.4 -> 1.6.5
 - Updated Very Many Players | 0.2.0 beta 7.100 -> 0.2.0 beta 7.101
+- Removed Cloth Config API
 ## v3.2.7 - Beta
 - Updated Sodium | 0.5.1 -> 0.5.2
 - Updated Indium | 1.0.24 -> 1.0.25
