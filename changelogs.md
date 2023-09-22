@@ -1,6 +1,10 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.9 - Beta
+- Updated to Minecraft | 1.20.2
+- Removed a lot of mods ![image](https://github.com/RealmKebab/liquid/assets/73048123/632bed73-ed72-4538-874b-7ba9945d1c22)
+- Waiting for the other mods to be updated to 1.20.2
 ## v3.2.8 - Beta
 - Updated Dynamic FPS | 2.4.0 -> 3.0.1
 - Updated Exordium | 1.1.3.1 -> 1.1.4
