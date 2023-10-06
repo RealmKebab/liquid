@@ -3,6 +3,7 @@
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
 ## v3.2.10 - Beta
 - Fully updated to 1.20.2
+- Removed Fast Load due it being discountinued
 - I actually have no idea what mods updated but I know it works
 ## v3.2.9 - Beta
 - Updated to Minecraft | 1.20.2
