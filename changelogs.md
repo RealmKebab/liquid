@@ -1,6 +1,9 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.10 - Beta
+- Fully updated to 1.20.2
+- I actually have no idea what mods updated but I know it works
 ## v3.2.9 - Beta
 - Updated to Minecraft | 1.20.2
 - Removed a lot of mods ![image](https://github.com/RealmKebab/liquid/assets/73048123/632bed73-ed72-4538-874b-7ba9945d1c22)
