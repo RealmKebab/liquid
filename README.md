@@ -10,7 +10,7 @@ Better Minecraft Performance on Low-end hardware
 
 # Forge, Fabric, Quilt
 Forge - No  
-Fabric - What do you use to load this modpack, Forge?  
+Fabric - Already supported
 Quilt - Probably Not (no plans for it currently)
 
 ---
