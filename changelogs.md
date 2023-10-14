@@ -1,6 +1,11 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.11 - Beta
+- Updated ModernFix | 5.7.5 -> 5.8.1
+- Updated Fabric API | 0.89.3 -> 0.90.0
+- Removed MemoryLeakFix
+- Updated EntityCulling | 1.6.1 -> 1.6.2
 ## v3.2.10 - Beta
 - Fully updated to 1.20.2
 - Removed Fast Load due it being discountinued
