@@ -1,6 +1,11 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.12 - Beta
+- Updated Fabric API | 0.90.0 -> 0.90.4
+- Updated FerriteCore | 6.0.0 -> 6.0.1
+- Updated Starlight |  1.1.2 -> 1.1.3
+- Updated Very Many Players | 0.2.0+beta.7.117 -> 0.2.0+beta.7.118
 ## v3.2.11 - Beta
 - Updated ModernFix | 5.7.5 -> 5.8.1
 - Updated Fabric API | 0.89.3 -> 0.90.0
