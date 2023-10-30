@@ -5,7 +5,7 @@
 - Updated ModernFix | 5.8.1 -> 5.9.0
 - Updated Reese's Sodium Options | 1.6.5 -> 1.7.0
 - Updated Sodium Extra | 0.5.2 -> 0.5.3
-- Very Many Players | 0.2.0+beta.7.118 -> 0.2.0+beta.7.120 -> 0.2.0+beta.7.121
+- Updated Very Many Players | 0.2.0+beta.7.118 -> 0.2.0+beta.7.120 -> 0.2.0+beta.7.121
 - Updated Fabric Loader | 0.14.22 -> 0.14.24
 ## v3.2.12 - Beta
 - Updated Fabric API | 0.90.0 -> 0.90.4
