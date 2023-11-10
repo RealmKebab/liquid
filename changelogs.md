@@ -1,6 +1,10 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.14 - Beta
+- Updated Fabric API | 0.90.4 -> 0.90.7
+- Updated ImmediatelyFast | 1.2.6 -> 1.2.7
+- Updated ModernFix | 5.9.0 -> 5.9.2
 ## v3.2.13 - Beta
 - Updated ModernFix | 5.8.1 -> 5.9.0
 - Updated Reese's Sodium Options | 1.6.5 -> 1.7.0
