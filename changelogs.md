@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.16 - Beta
+- Updated FAPI | 0.90.7 -> 0.91.1
+- Updated ModernFix | 5.9.3 -> 5.10.0
+- Updated Sodium | 0.5.3. -> 0.5.4
+- Updated FL | 0.14.24 -> 0.15.0
+- TempRemv Indium due it causing crashes related to sodium 0.5.4
 ## v3.2.15 - Beta
 - Updated ModernFix | 5.9.2 -> 5.9.3
 ## v3.2.14 - Beta
