@@ -1,11 +1,16 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.2.17 - Beta
+- Updated Sodium | 0.5.4 -> 0.5.5
+- Updated Fabric Loader | 0.15.0 -> 0.15.1
+- Updated Fabric API | 0.91.1 -> 0.91.2
+- Updated ImmediatelyFast | 1.2.7 -> 1.2.8
 ## v3.2.16 - Beta
-- Updated FAPI | 0.90.7 -> 0.91.1
+- Updated Fabric API | 0.90.7 -> 0.91.1
 - Updated ModernFix | 5.9.3 -> 5.10.0
 - Updated Sodium | 0.5.3. -> 0.5.4
-- Updated FL | 0.14.24 -> 0.15.0
+- Updated Fabric Loader | 0.14.24 -> 0.15.0
 - TempRemv Indium due it causing crashes related to sodium 0.5.4
 ## v3.2.15 - Beta
 - Updated ModernFix | 5.9.2 -> 5.9.3
