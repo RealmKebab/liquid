@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.3.1 - Beta
+- Updated Minecraft | 1.20.2 -> 1.20.4
+- Updated Fabric Loader | 0.15.1 -> 0.15.2
+- Added Back Indium
+- Removed Exordium
+- idk what else i changed
 ## v3.2.17 - Beta
 - Updated Sodium | 0.5.4 -> 0.5.5
 - Updated Fabric Loader | 0.15.0 -> 0.15.1
