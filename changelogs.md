@@ -1,6 +1,9 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.3.2 - Beta
+- Updated ModernFix | 5.10.2 -> 5.11.2
+- Updated Fabric API | 0.91.3 -> 0.92.0
 ## v3.3.1 - Beta
 - Updated Minecraft | 1.20.2 -> 1.20.4
 - Updated Fabric Loader | 0.15.1 -> 0.15.2
