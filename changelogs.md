@@ -1,6 +1,9 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.3.7 - Beta
+- Updated Sodium | 0.5.6 -> 0.5.7
+- Updated Fabric API | 0.95.1 -> 0.95.3
 ## v3.3.6 - Beta
 - Updated Sodium | 0.5.5 -> 0.5.6
 - Updated Sodium Extra | 0.5.3 -> 0.5.4 build 116
