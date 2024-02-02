@@ -1,6 +1,11 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.3.8 - Beta
+- Updated FAPI | 0.95.3 -> 0.95.4
+- Updated ImmediatelyFast | 1.2.8 -> 1.2.9
+- Updated Reese's Sodium Option | 1.7.1 -> 1.7.2
+- Updated Sodium | 0.5.7 -> 0.5.8
 ## v3.3.7 - Beta
 - Updated Sodium | 0.5.6 -> 0.5.7
 - Updated Fabric API | 0.95.1 -> 0.95.3
