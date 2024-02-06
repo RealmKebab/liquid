@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.3.9 - Beta
+- Added Back Indium
+- Updated Concurrent Chunk Management Engine | 0.2.0 11.40 -> 0.2.0 11.50
+- Updated ImmediatelyFast | 1.2.9 -> 1.2.10
+- Updated ModernFix | 5.12.1 -> 5.13.0
+- Updated Very Many Players | 0.2.0 7.136 -> 0.2.0 7.137
 ## v3.3.8 - Beta
 - Updated FAPI | 0.95.3 -> 0.95.4
 - Updated ImmediatelyFast | 1.2.8 -> 1.2.9
