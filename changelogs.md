@@ -1,6 +1,10 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.3.11 - Beta
+- Updated Dynamic FPS | 3.4.1 -> 3.4.2
+- Updated Fabric API | 0.96.3 -> 0.96.4
+- Updated ModernFix | 5.13.0 -> 5.14.0
 ## v3.3.10 - Beta
 - Updated Concurrent Chunk Management eNGINE | 0.2.0 11.50 -> 0.2.0 11.58
 - Updated Dynamic FPS | 3.3.3 -> 3.4.1
