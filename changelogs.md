@@ -1,6 +1,8 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.3.12 - Beta
+- Updated Fabric API | 0.96.3 -> 0.96.11
 ## v3.3.11 - Beta
 - Updated Dynamic FPS | 3.4.1 -> 3.4.2
 - Updated Fabric API | 0.96.3 -> 0.96.4
