@@ -1,6 +1,9 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.4 - Beta
+- Disabled FerriteCore, ImmediatelyFast & Lithium
+- Updated Minecraft | 1.20.4 -> 1.20.5
 ## v3.3.15 - Beta
 - Updated Fabric API | 0.96.11 -> 0.97.0
 - Updated ModernFix | 5.15.0 > 5.16.1
