@@ -1,6 +1,8 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.4.1 - Beta
+- Updated ImmediatelyFast | 1.2.11 -> 1.2.12
 ## v3.4 - Beta
 - Disabled FerriteCore, ImmediatelyFast & Lithium
 - Updated Minecraft | 1.20.4 -> 1.20.5
