@@ -1,6 +1,8 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.4.3 - Beta
+- Updated Lithium | 0.12.1 -> 0.12.2
 ## v3.4.2 - Beta
 - Updated Fabric API | 0.97.6 -> 0.97.7
 - Updated FerriteCore | 6.0.3 -> 6.1.0
