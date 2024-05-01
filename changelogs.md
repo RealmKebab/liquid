@@ -1,6 +1,9 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.5 - Beta
+- Disabled EntityCulling
+- Updated Concurrent Chunk Management Engine | 0.2.0 11.89 -> 0.2.0 11.93
 ## v3.4.3 - Beta
 - Updated Lithium | 0.12.1 -> 0.12.2
 ## v3.4.2 - Beta
