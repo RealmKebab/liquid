@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.5.1 - Beta
+- Updated Concurrent Chunk Management Engine | 0.2.0 11.93 -> 0.2.0 11.95
+- Updated EntityCulling | 1.6.4 -> 1.6.4
+- Updated FerriteCore | 6.1.0 -> 6.1.1
+- Updated Sodium Extra | 0.5.4-build.117 -> 0.5.5
+- Updated Very Many Players | 0.2.0 7.151 -> 0.2.0 7.155
 ## v3.5 - Beta
 - Disabled EntityCulling
 - Updated Concurrent Chunk Management Engine | 0.2.0 11.89 -> 0.2.0 11.93
