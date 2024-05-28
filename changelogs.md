@@ -1,6 +1,10 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v3.5.3 - Beta
+- Updated EntityCulling | 1.6.4 -> 1.6.5
+- Updated Fabric API | 0.98.0 -> 0.99.0
+- Updated ImmediatelyFast | 1.2.14 -> 1.2.15
 ## v3.5.2 - Beta
 - Updated Fabric API | 0.97.8 -> 0.98.0
 - Updated ImmediatelyFast | 1.2.12 -> 1.2.14
