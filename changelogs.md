@@ -1,6 +1,13 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4 - Beta
+- Updated Minecraft | 1.20.6 -> 1.21
+- Disabled EntityCulling
+- Disabled DynamicFPS
+- Disabled FerriteCore
+- Disabled Indium
+- Disabled Lithium
 ## v3.5.4 - Beta
 - Updated Fabric API | 0.99.0 -> 0.100.0
 - Updated ImmediatelyFast | 1.2.15 -> 1.2.17
