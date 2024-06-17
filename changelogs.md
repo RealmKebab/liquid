@@ -1,6 +1,11 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.0.1 - Beta
+- Updated Ferrite Core | 6.1.1 -> 7.0.0
+- Updated Indium | 1.0.31 -> 1.0.33
+- Updated Lithium | 0.12.3 -> 0.12.5
+- Updated Mod Menu | 11.0.0-rc.2 -> 11.0.0-rc.4
 ## v4 - Beta
 - Updated Minecraft | 1.20.6 -> 1.21
 - Disabled EntityCulling
