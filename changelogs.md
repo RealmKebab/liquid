@@ -1,6 +1,11 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.0.2 - Beta
+- Updated Concurrent Chunk Management Engine | 0.2.0 11.100 -> 0.2.0 11.101
+- Updated Lithium | 0.12.5 -> 0.12.7
+- Updated Mod Menu | 11.0.0-rc4 -> 11.0.0
+- Updated ModernFix | 5.18.2 -> 5.18.3
 ## v4.0.1 - Beta
 - Updated Ferrite Core | 6.1.1 -> 7.0.0
 - Updated Indium | 1.0.31 -> 1.0.33
