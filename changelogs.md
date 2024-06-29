@@ -1,6 +1,10 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.0.4 - Beta
+- Updated Sodium | 0.5.9 -> 0.5.11
+- Updated Dynamic FPS | 3.5.0-beta.3 -> 3.5.1
+- Updated Fabric API | 0.100.3 -> 0.100.4
 ## v4.0.3 - Beta
 - Updated Concurrent Chunk Management Engine | 0.2.0 11.101 -> 0.2.0 11.106
 - Updated Dynamic FPS | 3.4.3 -> 3.5.0-beta.3
