@@ -1,6 +1,9 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.0.5 - Beta
+- Updated Indium | 1.0.33 -> 1.0.34
+- Updated Dynamic FPS | 3.5.1 -> 3.6.0
 ## v4.0.4 - Beta
 - Updated Sodium | 0.5.9 -> 0.5.11
 - Updated Dynamic FPS | 3.5.0-beta.3 -> 3.5.1
