@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.0.6 - Beta
+- Updated Fabric Loader | 0.15.11 -> 0.16.0
+- Updated Concurrent Chunk Management Engine | 0.2.0 11.106 -> 0.2.0 11.107
+- Updated Fabric API | 0.100.4 -> 0.100.7
+- Updated ModernFix | 5.18.3 -> 5.18.8
+- Updated Very Many Players | 0.2.0 7.162 -> 0.2.0 7.163
 ## v4.0.5 - Beta
 - Updated Indium | 1.0.33 -> 1.0.34
 - Updated Dynamic FPS | 3.5.1 -> 3.6.0
