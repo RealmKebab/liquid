@@ -1,6 +1,11 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.0.7 - Beta
+- Updated Dynamic FPS | 3.6.0 -> 3.6.3
+- Updated Fabric API | 0.100.7 -> 0.100.8
+- Updated ModernFix | 5.18.8 -> 5.19.0
+- Updated Reese's Sodium Options | 1.7.2 -> 1.7.3
 ## v4.0.6 - Beta
 - Updated Fabric Loader | 0.15.11 -> 0.16.0
 - Updated Concurrent Chunk Management Engine | 0.2.0 11.106 -> 0.2.0 11.107
