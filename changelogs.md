@@ -1,6 +1,17 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.1.1 - Beta
+- Re-enabled & Updated Lithium | 0.12.5 -> 0.13.0
+- Re-enabled & Updated EntityCulling | 1.6.6 -> 1.6.7
+- Updated Concurrent Chunk Management Engine | 0.3.0 0.135 -> 0.3.0 0.150
+- Updated Fabric API | 0.102.0 -> 0.102.1
+- Updated ImmediatelyFast | 1.2.19 -> 1.2.20
+- Updated Indium | 1.0.34 -> 1.0.35
+- Updated ModernFix | 5.19.0 -> 5.19.3
+- Updated Reese's Sodium Options | 1.7.3 -> 1.8.0
+- Updated Sodium | 0.5.7 -> 0.6.0
+- Updated Very Many Players | 0.2.0 7.163 -> 0.2.0 7.167
 ## v4.1 - Beta
 - Updated Fabric API | 0.100.8 -> 0.102.0
 - Updated Concurrent Chunk Management Engine | 0.2.0 11.107 -> 0.3.0 0.135
