@@ -1,6 +1,11 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.2.2 - Beta
+- Updated Concurrent Chunk Management Engine | 0.3.0 0.334 -> 0.3.0 0.337
+- Re-enabled & Updated FerriteCore | 7.0.0 -> 7.1.0-hotfix
+- Updated Sodium | 0.6.0-beta.3 -> 0.6.0-beta.4
+- Updated Very Many Players | 0.2.0 7.179 -> 0.2.0 7.180
 ## v4.2.1 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.0 0.332 -> 0.3.0 0.334
 - Updated Fabric API | 0.106.1 -> 0.107.0
