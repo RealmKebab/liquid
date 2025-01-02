@@ -1,6 +1,10 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.3.6 - Beta
+- Updated Concurrent Chunk Management Engine |  0.3.2+alpha.0.14 -> 0.3.2+alpha.0.19
+- Updated Fabric API | 0.113.0 -> 0.114.0
+- Re-enabled & Updated ModernFix | 5.19.3 -> 5.20.1
 ## v4.3.5 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.1+beta.2.0 -> 0.3.2+alpha.0.14
 - Updated Fabric API | 0.112.2 -> 0.113.0
