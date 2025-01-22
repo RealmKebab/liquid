@@ -1,6 +1,13 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.3.7 - Beta
+- Updated Concurrent Chunk Management Engine | 0.3.2+alpha.0.19 -> 0.3.2+alpha.0.30
+- Updated Fabric API | 0.114.0 -> 0.115.0
+- Updated Lithium | 0.14.3 -> 0.14.7
+- Updated Mod Menu | 13.0.0-beta.1 -> 13.0.1
+- Updated Reese's Sodium Options | 1.8.2 -> 1.8.3
+- Updated Very Many Players | 0.2.0+beta.7.187 -> 0.2.0+beta.7.190
 ## v4.3.6 - Beta
 - Updated Concurrent Chunk Management Engine |  0.3.2+alpha.0.14 -> 0.3.2+alpha.0.19
 - Updated Fabric API | 0.113.0 -> 0.114.0
