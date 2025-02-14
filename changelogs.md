@@ -1,6 +1,13 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.3.9 - Beta
+- Updated Concurrent Chunk Management Engine | 0.3.2+alpha.0.33 -> 0.3.2+alpha.0.35
+- Updated Fabric API | 0.115.1 -> 0.116.1
+- Updated Ksyxis | 1.3.2 -> 1.3.3
+- Updated Mod Menu | 13.0.1 -> 13.0.2
+- Updated ModernFix | 5.20.2 -> 5.20.3
+- Updated Sodium | 0.6.6 -> 0.6.7
 ## v4.3.8 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.2+alpha.0.30 -> 0.3.2+alpha.0.33
 - Updated Fabric API | 0.115.0 -> 0.115.1
