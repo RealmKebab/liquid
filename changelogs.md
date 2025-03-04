@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.3.11 - Beta
+- Updated Concurrent Chunk Management Engine | 0.3.2+alpha.0.37 -> 0.3.1.2+rc.1.0
+- Updated Dynamic FPS | 3.8.0 -> 3.9.0
+- Updated EntityCulling | 1.7.2 -> 1.7.3
+- Updated ImmediatelyFast | 1.3.4 -> 1.3.5
+- Updated Sodium | 0.6.9 -> 0.6.10
 ## v4.3.10 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.2+alpha.0.35 -> 0.3.2+alpha.0.37
 - Updated Dynamic FPS | 3.7.7 -> 3.8.0
