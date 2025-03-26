@@ -1,6 +1,20 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.4 - Beta
+- Updated Minecraft | 1.21.4 -> 1.21.5
+- Updated Concurrent Chunk Mangement Engine | 0.3.2+alpha.0.41 -> 0.3.2+alpha.0.66
+- Updated Dynamic FPS | 3.9.1 -> 3.9.2
+- Updated Fabric API | 0.118.5 -> 0.119.5
+- Updated ImmediatelyFast | 1.3.6 -> 1.9.0
+- Updated Lithium | 0.15.0 -> 0.16.0
+- Updated Mod Menu | 13.0.3 -> 14.0.0-rc.2
+- Updated Sodium | 0.6.10 -> 0.6.12
+- Updated Very Many Players | 0.2.0+beta.7.191 -> 0.2.0+beta.7.197
+- Disabled Sodium Extra
+- Disabled Reese's Sodium Options
+- Disabled ModernFix
+- Disabled FerriteCore
 ## v4.3.12 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.1.2+rc.1.0 -> 0.3.2+alpha.0.41
 - Updated Dynamic FPS | 3.9.0 -> 3.9.1
