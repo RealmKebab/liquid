@@ -1,6 +1,13 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.4.1 - Beta
+- Updated EntityCulling | 1.7.3 -> 1.7.4
+- Updated Fabric API | 0.119.5 -> 0.119.6
+- Updated Sodium Extra | 0.6.1 -> 0.6.2
+- Removed Mod Menu
+- Removed Very Many Players
+- Removed YOSBR
 ## v4.4 - Beta
 - Updated Minecraft | 1.21.4 -> 1.21.5
 - Updated Concurrent Chunk Mangement Engine | 0.3.2+alpha.0.41 -> 0.3.2+alpha.0.66
