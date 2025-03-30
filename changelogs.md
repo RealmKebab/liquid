@@ -1,6 +1,11 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.4.2 - Beta
+- Re-enabled & updated FerriteCore | 7.1.1 -> 8.0.0
+- Updated ImmediatleyFast | 1.9.0 -> 1.9.1
+- Updated Sodium Extra | 0.6.2 -> 0.6.3
+- Removed Reese's Sodium Options
 ## v4.4.1 - Beta
 - Updated EntityCulling | 1.7.3 -> 1.7.4
 - Updated Fabric API | 0.119.5 -> 0.119.6
