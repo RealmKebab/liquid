@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.4.5 - Beta
+- Updated Concurrent Chunk Management Engine | 0.3.3+alpha.0.2 -> 0.3.4+alpha.0.17
+- Updated Dynamic FPS | 3.9.3 -> 3.9.4
+- Updated Fabric API | 0.120.0 -> 0.124.2
+- Updated ImmediatelyFast | 1.9.3 -> 1.9.4
+- Removed ModernFix | no valid version for 1.21.5 for what like, 2 months now?
 ## v4.4.4 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.2+beta.1.0 -> 0.3.3+alpha.0.2
 - Updated Dynamic FPS | 3.9.2 -> 3.9.3
