@@ -15,6 +15,6 @@ Quilt - Probably Not (no plans for it currently)
 
 ---
 
-Liquid is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-
-Learn more about this license: https://creativecommons.org/licenses/by-nc-nd/4.0/
+Liquid is licensed under the [MIT License](https://simple.wikipedia.org/wiki/MIT_License), before redistrubiting Liquid anywhere, make sure you have these checked:
+- Included the original copyright notice
+- Included the license text in distributions
