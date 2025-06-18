@@ -1,6 +1,15 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.5.0 - Beta
+- Updated Concurrent Chunk Management Engine | 0.3.4+alpha.0.17 -> 0.3.4+alpha.0.42
+- Updated Dynamic FPS | 3.9.4 -> 3.9.5
+- Updated Fabric API |   0.124.2 -> 0.127.0
+- Updated ImmediatelyFast | 1.9.4 -> 1.10.0
+- Updated Lithium | 0.16.2 -> 0.17.0
+- Updated Sodium | 0.6.13+mc1.21.5 -> mc1.21.6-0.6.13-fabric
+- Disabled EntityCulling | Unexpected exception thrown after a while
+- Disabled Sodium Extra | mixin is trying to call method_42588 which no longer exists in net.minecraft.class_758
 ## v4.4.5 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.3+alpha.0.2 -> 0.3.4+alpha.0.17
 - Updated Dynamic FPS | 3.9.3 -> 3.9.4
