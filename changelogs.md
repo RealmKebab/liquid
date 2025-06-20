@@ -5,6 +5,7 @@
 - Updated Fabric API | 0.127.0 -> 0.127.1
 - Renabled Sodium Extra | 0.6.3 -> 0.6.4
 ## v4.5.0 - Beta
+- Updated Minecraft | 1.21.5 -> 1.21.6
 - Updated Concurrent Chunk Management Engine | 0.3.4+alpha.0.17 -> 0.3.4+alpha.0.42
 - Updated Dynamic FPS | 3.9.4 -> 3.9.5
 - Updated Fabric API |   0.124.2 -> 0.127.0
