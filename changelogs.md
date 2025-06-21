@@ -1,6 +1,10 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.5.2 - Beta
+- Renabled EntityCulling | 1.7.4 -> 1.8.0
+- Updated ImmediatelyFast | 1.10.0 -> 1.10.1
+- Updated Sodium Extra | 0.6.4 -> 0.6.5
 ## v4.5.1 - Beta
 - Updated Fabric API | 0.127.0 -> 0.127.1
 - Renabled Sodium Extra | 0.6.3 -> 0.6.4
