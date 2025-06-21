@@ -5,13 +5,10 @@
 [![Mod Loader](https://img.shields.io/badge/mod%20loader-fabric-d64541?style=flat-square)](https://fabricmc.net)
 
 # Why?
-I have created Liquid for the simple reason:  
-Better Minecraft Performance on Low-end hardware
+whenever i like make a new instance on prism launcher, i find myself adding random mods to it whilst trying to make it;  
+liquid eliminates this by just making a clear and concise simply modpack, no need to add mods to it unless you really need to
 
-# Forge, Fabric, Quilt
-Forge - No  
-Fabric - Already supported  
-Quilt - Probably Not (no plans for it currently)
+[![Quilt](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/unsupported/quilt_64h.png?raw=true "Fabric fork that literally has no difference, except for being like NeoForge")](https://www.reddit.com/r/feedthebeast/comments/wfvdj7/why_users_should_care_about_quiltmc/) ![Forge](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/unsupported/forge_64h.png?raw=true "Forge is way more garbage than Fabric in performance, obviously, also thank you devin for these cool badges")
 
 ---
 
