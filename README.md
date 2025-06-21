@@ -1,5 +1,5 @@
 # What?
-[Liquid](https://modrinth.com/modpack/liquid) is a non-configured, normal set of performance that you would see in minecraft `/User/AppData/.minecraft/mods` folders turned into a modpack.
+[Liquid](https://modrinth.com/modpack/liquid) takes the standard collection of performance mods that players typically gather and pre-packages them into one convenient modpack, without the need of searching and downloading random mods while at it.
 
 [![Environment](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)](https://www.tutorialspoint.com/difference-between-client-and-server)  
 [![Mod Loader](https://img.shields.io/badge/mod%20loader-fabric-d64541?style=flat-square)](https://fabricmc.net)
