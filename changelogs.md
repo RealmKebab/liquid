@@ -1,6 +1,11 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.5.3 - Beta
+- Updated Dynamic FPS | 3.9.5 -> 3.9.6
+- Updated Fabric API | 0.127.1 -> 0.128.0
+- Updated Sodium Extra | 0.6.5 -> 0.6.6
+- Deleted Indium | no longer needed
 ## v4.5.2 - Beta
 - Renabled EntityCulling | 1.7.4 -> 1.8.0
 - Updated ImmediatelyFast | 1.10.0 -> 1.10.1
