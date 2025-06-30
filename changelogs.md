@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.6 - Beta
+- Updated Minecraft | 1.21.6 -> 1.21.7
+- Updated Concurrent Chunk Management Engine | 0.3.4+alpha.0.42 -> 0.3.4+alpha0.35
+- Updated Fabric API | 0.128.0 -> 0.128.1
+- Updated ImmediatelyFast | 1.10.1 -> 1.11.0
+- Updated Lithium | 0.17.0 -> 0.18.0
 ## v4.5.3 - Beta
 - Updated Dynamic FPS | 3.9.5 -> 3.9.6
 - Updated Fabric API | 0.127.1 -> 0.128.0
