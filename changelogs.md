@@ -1,6 +1,13 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.7 - Beta
+- Updated Minecraft | 1.21.7 -> 1.21.8
+- Updated Concurrent Chunk Management Engine | 0.3.4+beta.1.0 -> 0.3.5+alpha.0.3
+- Updated EntityCulling | 1.8.1 -> 1.8.2
+- Updated Fabric API | 0.128.2 -> 0.129.0
+- Updated ImmediatelyFast | 1.11.0 -> 1.12.0
+- Updated Lithium | 0.18.0+mc.1.21.7 -> 0.18.0+mc.1.21.8
 ## v4.6.1 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.4+alpha.0.35 -> 0.3.4+beta.1.0
 - Updated EntityCulling | 1.8.0 -> 1.8.1
