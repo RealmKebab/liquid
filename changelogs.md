@@ -1,6 +1,10 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.7.2 - Beta
+- Updated Concurrent Chunk Management Engine | 0.3.4.0.0 -> 0.3.5+alpha.0.8
+- Updated Fabric API | 0.130.0 -> 0.132.0
+- Updated Ksyixs | 1.3.3 -> 1.3.4
 ## v4.7.1 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.5+alpha.0.3 -> 0.3.4.0.0
 - Updated Fabric API | 0.129.0 -> 0.130.0
