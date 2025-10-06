@@ -1,6 +1,9 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.8.1 - Beta
+- Renabled BadOptimizations | 2.3.1 -> 2.3.2
+- Renabled Sodium Extra | 0.7.0+mc.1.21.8 -> mc-1.21.9-0.7.0+fabric
 ## v4.8 - Beta
 - Updated Minecraft | 1.21.8 -> 1.21.9
 - Updated Concurrent Chunk Management Engine | 0.3.5+alpha.0.8 -> 0.3.5+alpha.0.43
