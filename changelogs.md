@@ -1,7 +1,7 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
-## v4.8.2 - Beta
+## v4.9 - Beta
 - Updated Minecraft | 1.21.9 -> 1.21.10
 - Updated Concurrent Chunk Management | 0.3.5+alpha.0.43 -> 0.3.5+alpha.1.0
 - Renabled EntityCulling | 1.8.2 -> 1.9.0
