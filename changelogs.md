@@ -1,6 +1,13 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.10.3 - Beta
+- Updated Concurrent Chunk Management Engine | 0.3.6.0.0 -> 0.3.7+alpha.0.7
+- Updated Dynamic FPS | 3.11.3 -> 3.11.4
+- Updated Fabric API | 0.141.1 -> 0.141.2
+- Updated FerriteCore | 8.0.3 -> 8.2.0
+- Updated ImmediatelyFast | 1.14.1 -> 1.14.2
+- Updated Sodium | 0.8.2 -> 0.8.4
 ## v4.10.2 - Beta
 - Updated Concurrent Chunk Management Engine |0.3.7+alpha.0.7 -> 0.3.6.0.0
 - Updated Dynamic FPS | 3.11.0 -> 3.11.3
