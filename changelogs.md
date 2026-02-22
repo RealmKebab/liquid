@@ -1,6 +1,9 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v4.10.4 - Beta
+- Updated Fabric API | 0.141.2 -> 0.141.3
+- Updated Lithium | 0.21.2 -> 0.21.3
 ## v4.10.3 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.6.0.0 -> 0.3.7+alpha.0.7
 - Updated Dynamic FPS | 3.11.3 -> 3.11.4
