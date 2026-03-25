@@ -1,6 +1,19 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v5 - Beta
+- Updated Minecraft | 1.21.11 -> 26.1
+- Updated Concurrent Chunk Management Engine | 0.3.7+alpha.0.9 -> 0.3.7+alpha.0.59
+- Updated Dynamic FPS | 3.11.4 -> 3.11.5
+- Updated Fabric API | 0.141.3 -> 0.144.1
+- Updated FerriteCore | 8.2.0 -> 9.0.0
+- Updated Lithium | 0.21.3 -> 0.22.0
+- Updated ScalableLux | 0.1.6 -> 0.2.0
+- Updated Sodium | 0.8.6 -> 0.8.7
+- Disabled Sodium Extra
+- Disabled BadOptimizations
+- Disabled ImmediatelyFast
+- Disabled EntityCulling
 ## v4.10.5 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.7+alpha.0.7 -> 0.3.7+alpha.0.9
 - Updated Sodium | 0.8.4 -> 0.8.6
