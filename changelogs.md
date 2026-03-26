@@ -1,6 +1,10 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v5.0.1 - Beta
+- Updated Dynamic FPS | 3.11.5 -> 3.11.6
+- Updated EntityCulling | 1.9.5 -> 1.10.0
+- Updated Fabric API | 0.144.1 -> 0.144.3
 ## v5 - Beta
 - Updated Minecraft | 1.21.11 -> 26.1
 - Updated Concurrent Chunk Management Engine | 0.3.7+alpha.0.9 -> 0.3.7+alpha.0.59
