@@ -1,6 +1,8 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v5.0.3 - Beta
+- Updated Sodium | 0.8.7 -> 0.8.9
 ## v5.0.2 - Beta
 - Renabled BadOptimizations | 2.4.1 -> 2.4.1 for 26.1
 - Updated Concurrent Chunk Management Engine | 0.3.7+alpha.0.59 -> 0.3.7+alpha.0.61
