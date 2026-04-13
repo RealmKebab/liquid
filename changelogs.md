@@ -1,6 +1,13 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v5.2 - Beta
+- Updated Minecraft | 26.1.1 -> 26.1.2
+- Updated Concurrent Chunk Management Engine | 0.3.7+alpha.0.63 -> 0.3.7+alpha.0.64
+- Renabled EntityCulling | 1.10.0 -> 1.10.1
+- Updated ImmediatelyFast | 1.15.1 -> 1.15.2
+- Updated Lithium | 0.23.0 -> 0.24.1
+- Updated Sodium Extra | 0.8.6 -> 0.8.7
 ## v5.1 - Beta
 - Updated Minecraft | 26.1 -> 26.1.1
 - Updated Concurrent Chunk Management Engine | 0.3.7+alpha.0.61 -> 0.3.7+alpha.0.63
