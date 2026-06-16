@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v5.2.3 - Beta
+- Updated Concurrent Chunk Management Engine | 0.3.7+alpha.0.68 -> 0.4.0+alpha.0.9
+- Updated Dynamic FPS | 3.11.6 -> 3.11.7
+- Updated Fabric API | 0.149.1 -> 0.152.1
+- Updated Lithium | 0.24.2 -> 0.24.5
+- Updated Sodium | 0.8.12 -> 0.9.0
 ## v5.2.2 - Beta
 - Updated Concurrent Chunk Management Engine | 0.3.7+alpha.0.65 -> 0.3.7+alpha.0.68
 - Updated EntityCulling | 1.10.1 -> 1.10.2
