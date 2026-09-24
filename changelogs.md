@@ -1,6 +1,14 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v5.4.1 - Beta
+- Updated Concurrent Chunk Management Engine | 0.4.2-alpha.0.85
+- Renabled EntityCulling | 1.10.5 -> 1.11.2
+- Updated Fabric API | 0.160.5 -> 0.161.0
+- Renabled ImmediatelyFast | 1.16.3 -> 1.17.1
+- Updated ScalableLux | 0.3.0-alpha.0.4 -> 0.3.0-alpha.0.6
+- Updated Sodium | 0.9.2 -> 0.9.3-alpha.1
+- Renabled Sodium Extra | 0.9.3 -> 0.9.4
 ## v5.4 - Beta
 - Updated Minecraft | 26.2 -> 26.3
 - Updated BadOptimizations | 2.4.1 -> 2.4.1
