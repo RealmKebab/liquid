@@ -1,6 +1,12 @@
 # Changelogs
 *How much is too much?*  
 [*Obviously, not much... Right..?*](https://modrinth.com/modpack/liquid/versions)
+## v5.4.4 - Beta
+- Updated Concurrent Chunk Management Engine | 0.4.2-alpha.0.114 -> 0.4.2-alpha.0.116
+- Updated EntityCulling | 1.11.3 -> 1.12.0
+- Updated Fabric API | 0.165.0 -> 0.166.2
+- Updated Sodium | 0.9.3-beta.1 -> 0.9.3-beta.5
+- Disabled Sodium Extra
 ## v5.4.3 - Beta
 - Updated Concurrent Chunk Management Engine | 0.4.2-alpha.0.90 -> 0.4.2-alpha.0.114
 - Updated Fabric API | 0.162.0 -> 0.165.0
